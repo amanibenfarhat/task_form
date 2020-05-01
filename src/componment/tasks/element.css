@@ -1,0 +1,26 @@
+.App-row {
+    text-align: center;
+    margin:  50px auto;
+    justify-content: center;
+    width: 60%;
+  }
+  .row-c{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    border : 1px solid #000;
+    margin: 20px auto;
+    justify-content: left;
+    text-align: left !important;
+    
+    
+  }
+  .row-c .col{
+    display: inline-block;
+    
+  }
+
+  .col a{
+      padding: 30px 20px;
+      
+  }
